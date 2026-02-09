@@ -33,5 +33,6 @@ And that concludes how to install this mod and how it works gameplay wise. If yo
 # Credits
 * Shadow Golden Freddy Plush sprite made by me (KaptainKumnt)
 * Critical & Fair Mode Boss Fights made and tested by me (KaptainKumnt)
+* Coding by me (KaptainKumnt)
 * [Queen from Lisa: The Lustful](https://youtu.be/lrCyuHy2hMc) as S.G.F.P.'s Original Soundtrack Battle Theme
 * [Skid Granite from Lisa: The Pointless: Scholar of the Wilbur Sin](https://youtu.be/fh25y2S58Lw) as S.G.F.P.'s Alternate Soundtrack Battle Theme
